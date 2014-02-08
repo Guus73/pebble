@@ -1,2 +1,2 @@
-Var totalyieldkwh_t = "http://www.ecstorage.nl:8888/shares/Solar%20data/sunprofit.js";
+Var totalyieldkwh_t = 100;
 simply.title(totalyieldkwh_t);
