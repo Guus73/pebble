@@ -1,2 +1,2 @@
-Var totalyieldkwh_t = 100;
-simply.title(totalyieldkwh_t());
+var totalyieldkwh = 100;
+simply.title(totalyieldkwh());
